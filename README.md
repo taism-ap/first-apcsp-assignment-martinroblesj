@@ -1,15 +1,10 @@
-# Title
+# Computer Science
 
-## Heading 1
+## Why do people study computer science?
 
 
-### sub-heading
-Here is some regular text...blah,blah, computer science
-The first assignment for APCSP
+### Why?
+The most important aspect of computer science is problem solving, an essential skill for life. Students study the design, development and analysis of software and hardware used to solve problems in a variety of business, scientific and social contexts.
 
-1. one
-2. two
-3. three
-
-* bullet
-* bullet
+### Evidence:
+![Chart](https://upload.wikimedia.org/wikipedia/commons/6/6d/Data_types_-_en.svg)
